@@ -1,0 +1,11 @@
+Usar as tecnicas de:
+visualização de dados - Parte 1
+Tratamento de valores inconsistentes - Parte 1
+Tratamento de valores faltantes - Parte 1
+Divisão de previsores e clase - Parte 1
+Ecalonamento de valores - Parte 1
+One-Hot-Enconding - Parte 2
+
+
+Lembrando que cada modelo criado pode ou não seguir as mesmas tecnicas
+e que eu devo analisar para ver qual aplicar, pois varia de base para base
