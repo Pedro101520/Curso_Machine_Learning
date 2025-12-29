@@ -9,3 +9,8 @@ One-Hot-Enconding - Parte 2
 
 Lembrando que cada modelo criado pode ou não seguir as mesmas tecnicas
 e que eu devo analisar para ver qual aplicar, pois varia de base para base
+
+Ate agora eu estou usando duas bases para o pre-processamento de informações,
+na maior parte as duas usam as mesmas tecnicas, mas em alguns casos, eu utilizei tecnicas
+diferentes em uma ou outra, mas dito isso deve-se analisar os casos para entender qual a melhor tecnicas
+aplicar em bases futuras
