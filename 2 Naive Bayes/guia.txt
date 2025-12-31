@@ -1,0 +1,2 @@
+Aqui é só para lembrar, que quando se tem dados categoricos na coluna objetivo (classe)
+é uma boa prática atribuir o processo de LabelEncoder nesta coluna
