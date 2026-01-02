@@ -1,0 +1,2 @@
+Como as árvores de decisão funcionam como se fossem um grande sistema de filtros que após treinamento conseguiu entender padrões
+e organizar os tipos de filtros com base nos mais importantes, a padronizaão dos valores não é necessária
