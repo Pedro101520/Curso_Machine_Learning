@@ -1,0 +1,2 @@
+Como eu disse na parte das árvores de decisão, não é preciso padronizar as informações númericas em algoritmos que envolvem
+árvores de decisão, como é o caso das random forests
